@@ -1,0 +1,59 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:#FCFFE0;
+}
+.titulo p{
+  color: #EF9C66;
+  font-family: Comic Sans MS;
+  font-size: 50px;
+  text-align: center;
+  padding: 20px;  
+}
+
+.enlaces{
+  color: #78ABA8;
+  font-family: sans-serif;
+  font-size: 30px;
+  text-align: center;
+  padding: 20px;
+}
+
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 250px;
+}
+.lista img{
+  height:200px;
+  padding:50px;
+}
+.lista li{
+  color:#3e7dd0;
+  font-size: 20px;
+  font-family:"comic sans ms";
+}
+
+.contenido img{
+  height:200px;
+  padding:50px;
+}
+
+.titulos p{
+  color: #3e7dd0;
+  font-family: Comic Sans MS;
+  font-size: 50px;
+  text-align: center;
+  padding: 20px;  
+}
+
+.contenido {
+  color: #3e7dd0;
+  font-family: Comic Sans MS;
+  font-size: 20px;
+  text-align: center;
+  padding: 20px;  
+}
